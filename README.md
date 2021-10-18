@@ -7,9 +7,9 @@
 ### Connect with me
 
 
-<a target="_blank" href="https://dianastanciu.netlify.app">
+[<a target="_blank" href="https://dianastanciu.netlify.app">
   <img align="left" alt="dianastanciu.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
+</a>] [website]
 
 
 <a target="_blank" href="https://www.linkedin.com/in/dianastanciudev/">
