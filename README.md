@@ -15,9 +15,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/dianastanciudev/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<!--
 <a target="_blank" href="">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+-->
 ![](https://dribbble.com/shots/8630894-Programmer-cat)
