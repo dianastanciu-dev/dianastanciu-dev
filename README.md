@@ -2,29 +2,6 @@
 ## Hi, there! (✿◠‿◠) 
 
 
-### I'm a front-end developer, working with frameworks like Bootstrap, Jquery and ReactJS. I'm currently working on my [portfolio](https://dianastanciu.netlify.app) and improving my skills.
-
-### Connect with me
+###Passionate developer with a diverse skill set, ranging from building websites with Javascript, HTML, CSS([portfolio](https://dianastanciu.netlify.app) ), to contributing to robust backend systems with Java, Spring and Python. Adept at turning ideas into code and bringing them to life. 
 
 
-#### <a target="_blank" href="https://dianastanciu.netlify.app">
-  <img align="left" alt="dianastanciu.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-
-
-### <a target="_blank" href="https://www.linkedin.com/in/dianastanciudev/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-### <a target="_blank" href="https://www.instagram.com/davvaris/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
-
-
-<br>
-<br>
-
-## ![](https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif)
